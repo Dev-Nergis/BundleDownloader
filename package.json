@@ -1,0 +1,8 @@
+{
+  "name": "bluearchivebundledownloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kwabang/BlueArchiveBundleDownloader.git",
+  "author": "Kwabang <kwabang2827@gmail.com>",
+  "license": "MIT"
+}
