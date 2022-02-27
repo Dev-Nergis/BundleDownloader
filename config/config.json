@@ -1,0 +1,5 @@
+{
+  "appId":"com.nexon.bluearchive",
+  "apiVersion":"v1.1",
+  "bundlesDirecotry":"./bundles"
+}
