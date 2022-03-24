@@ -1,2 +1,2 @@
-# BlueArchiveBundleDownloader
-BlueArchive Bundle Downloader
+# BundleDownloader
+Bundle Downloader
